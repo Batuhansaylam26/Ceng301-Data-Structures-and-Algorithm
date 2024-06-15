@@ -1,0 +1,25 @@
+Distance from node 0 to node 0 is 0.
+Distance from node 0 to node 1 is 2.
+It is not possible to reach from node 0 to node 2.
+It is not possible to reach from node 0 to node 3.
+It is not possible to reach from node 0 to node 4.
+Distance from node 1 to node 0 is 2.
+Distance from node 1 to node 1 is 0.
+It is not possible to reach from node 1 to node 2.
+It is not possible to reach from node 1 to node 3.
+It is not possible to reach from node 1 to node 4.
+It is not possible to reach from node 2 to node 0.
+It is not possible to reach from node 2 to node 1.
+Distance from node 2 to node 2 is 0.
+Distance from node 2 to node 3 is 5.
+It is not possible to reach from node 2 to node 4.
+It is not possible to reach from node 3 to node 0.
+It is not possible to reach from node 3 to node 1.
+Distance from node 3 to node 2 is 5.
+Distance from node 3 to node 3 is 0.
+It is not possible to reach from node 3 to node 4.
+It is not possible to reach from node 4 to node 0.
+It is not possible to reach from node 4 to node 1.
+It is not possible to reach from node 4 to node 2.
+It is not possible to reach from node 4 to node 3.
+Distance from node 4 to node 4 is 0.

@@ -1,0 +1,51 @@
+true
+true
+true
+false
+true
+true
+true
+false
+false
+true
+
+Users in the social media platform:
+1, Gamer
+2, Eater Man
+3, Lonely Artist
+4, Cyborg
+6, Sportsman
+
+true
+true
+true
+true
+true
+true
+false
+false
+
+true
+false
+false
+
+Users following the user with ID 1:
+3, Lonely Artist
+
+Users following the user with ID 2:
+None
+
+Users following the user with ID 3:
+1, Gamer
+
+Users following the user with ID 4:
+1, Gamer
+2, Eater Man
+
+Cannot show. There is no user with ID 5.
+
+Users following the user with ID 6:
+1, Gamer
+
+Cannot show. There is no user with ID 7.
+

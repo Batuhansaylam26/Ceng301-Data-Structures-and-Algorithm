@@ -1,0 +1,59 @@
+Users in the social media platform:
+None
+
+true
+true
+true
+false
+true
+Users in the social media platform:
+1, Pelin
+2, Ayse
+3, Ali
+4, Fatma
+
+true
+true
+true
+
+true
+true
+true
+
+true
+true
+true
+
+true
+true
+true
+
+false
+false
+false
+
+Users following the user with ID 1:
+2, Ayse
+3, Ali
+4, Fatma
+
+Users following the user with ID 2:
+1, Pelin
+3, Ali
+4, Fatma
+
+Users following the user with ID 3:
+1, Pelin
+2, Ayse
+4, Fatma
+
+Users following the user with ID 4:
+1, Pelin
+2, Ayse
+3, Ali
+
+Users following the user with ID 4:
+1, Pelin
+2, Ayse
+3, Ali
+

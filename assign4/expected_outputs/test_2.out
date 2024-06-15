@@ -1,0 +1,33 @@
+Distance from node 0 to node 0 is 0.
+Distance from node 0 to node 1 is 2.
+Distance from node 0 to node 2 is 3.
+Distance from node 0 to node 3 is 6.
+Distance from node 0 to node 4 is 4.
+Distance from node 1 to node 0 is 2.
+Distance from node 1 to node 1 is 0.
+Distance from node 1 to node 2 is 1.
+Distance from node 1 to node 3 is 4.
+Distance from node 1 to node 4 is 2.
+Distance from node 2 to node 0 is 3.
+Distance from node 2 to node 1 is 1.
+Distance from node 2 to node 2 is 0.
+Distance from node 2 to node 3 is 3.
+Distance from node 2 to node 4 is 3.
+Distance from node 3 to node 0 is 6.
+Distance from node 3 to node 1 is 4.
+Distance from node 3 to node 2 is 3.
+Distance from node 3 to node 3 is 0.
+Distance from node 3 to node 4 is 4.
+Distance from node 4 to node 0 is 4.
+Distance from node 4 to node 1 is 2.
+Distance from node 4 to node 2 is 3.
+Distance from node 4 to node 3 is 4.
+Distance from node 4 to node 4 is 0.
+Number of connected components is: 1
+Nodes in the connected component with centroid 1 is:
+0 1 2 3 4 
+Centroid node of the connected component containing the node 0 is: node 1
+Centroid node of the connected component containing the node 1 is: node 1
+Centroid node of the connected component containing the node 2 is: node 1
+Centroid node of the connected component containing the node 3 is: node 1
+Centroid node of the connected component containing the node 4 is: node 1

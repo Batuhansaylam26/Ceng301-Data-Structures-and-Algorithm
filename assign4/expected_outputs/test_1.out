@@ -1,0 +1,77 @@
+Distance from node 0 to node 0 is 0.
+Distance from node 0 to node 1 is 2.
+Distance from node 0 to node 2 is 2.
+Distance from node 0 to node 3 is 2.
+Distance from node 0 to node 4 is 1.
+It is not possible to reach from node 0 to node 5.
+It is not possible to reach from node 0 to node 6.
+It is not possible to reach from node 0 to node 7.
+Distance from node 1 to node 0 is 2.
+Distance from node 1 to node 1 is 0.
+Distance from node 1 to node 2 is 2.
+Distance from node 1 to node 3 is 2.
+Distance from node 1 to node 4 is 1.
+It is not possible to reach from node 1 to node 5.
+It is not possible to reach from node 1 to node 6.
+It is not possible to reach from node 1 to node 7.
+Distance from node 2 to node 0 is 2.
+Distance from node 2 to node 1 is 2.
+Distance from node 2 to node 2 is 0.
+Distance from node 2 to node 3 is 2.
+Distance from node 2 to node 4 is 1.
+It is not possible to reach from node 2 to node 5.
+It is not possible to reach from node 2 to node 6.
+It is not possible to reach from node 2 to node 7.
+Distance from node 3 to node 0 is 2.
+Distance from node 3 to node 1 is 2.
+Distance from node 3 to node 2 is 2.
+Distance from node 3 to node 3 is 0.
+Distance from node 3 to node 4 is 1.
+It is not possible to reach from node 3 to node 5.
+It is not possible to reach from node 3 to node 6.
+It is not possible to reach from node 3 to node 7.
+Distance from node 4 to node 0 is 1.
+Distance from node 4 to node 1 is 1.
+Distance from node 4 to node 2 is 1.
+Distance from node 4 to node 3 is 1.
+Distance from node 4 to node 4 is 0.
+It is not possible to reach from node 4 to node 5.
+It is not possible to reach from node 4 to node 6.
+It is not possible to reach from node 4 to node 7.
+It is not possible to reach from node 5 to node 0.
+It is not possible to reach from node 5 to node 1.
+It is not possible to reach from node 5 to node 2.
+It is not possible to reach from node 5 to node 3.
+It is not possible to reach from node 5 to node 4.
+Distance from node 5 to node 5 is 0.
+Distance from node 5 to node 6 is 12.
+Distance from node 5 to node 7 is 18.
+It is not possible to reach from node 6 to node 0.
+It is not possible to reach from node 6 to node 1.
+It is not possible to reach from node 6 to node 2.
+It is not possible to reach from node 6 to node 3.
+It is not possible to reach from node 6 to node 4.
+Distance from node 6 to node 5 is 12.
+Distance from node 6 to node 6 is 0.
+Distance from node 6 to node 7 is 30.
+It is not possible to reach from node 7 to node 0.
+It is not possible to reach from node 7 to node 1.
+It is not possible to reach from node 7 to node 2.
+It is not possible to reach from node 7 to node 3.
+It is not possible to reach from node 7 to node 4.
+Distance from node 7 to node 5 is 18.
+Distance from node 7 to node 6 is 30.
+Distance from node 7 to node 7 is 0.
+Number of connected components is: 2
+Nodes in the connected component with centroid 4 is:
+0 1 2 3 4 
+Nodes in the connected component with centroid 5 is:
+5 6 7 
+Centroid node of the connected component containing the node 0 is: node 4
+Centroid node of the connected component containing the node 1 is: node 4
+Centroid node of the connected component containing the node 2 is: node 4
+Centroid node of the connected component containing the node 3 is: node 4
+Centroid node of the connected component containing the node 4 is: node 4
+Centroid node of the connected component containing the node 5 is: node 5
+Centroid node of the connected component containing the node 6 is: node 5
+Centroid node of the connected component containing the node 7 is: node 5
